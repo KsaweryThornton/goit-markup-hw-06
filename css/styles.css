@@ -675,7 +675,6 @@ figcaption {
 }
 
 .my-form {
-  margin-top: 24px;
   height: 501px;
 }
 
@@ -715,7 +714,6 @@ figcaption {
   background-color: transparent;
   font-size: 12px;
   padding: 0;
-  margin-bottom: 28px;
 }
 
 .my-form .input:focus {
